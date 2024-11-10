@@ -1,13 +1,16 @@
 # Banking-app
 The Sparks Foundation GRIP (Graduate Rotational Internship Program) Task under Mobile App Development.
 
- Task 2: Basic Banking App
-◇ Create a simple mobile app which has the following specs.
+Basic Banking Application 
 
-◇ Start with creating dummy data in mobile (sqlite) database for upto 10 users. User table will have basic fields such as name, email, current balance etc. Transfers table will record all transfers happened.
+Develop a straightforward mobile application with the following specifications:
 
-◇ Flow: Home Screen > View all Customers> Select and View one Customer> Transfer Money> Select customer to transfer to > View all Customers.
+Begin by establishing a mock data set in a mobile (SQLite) database for up to 10 users. The user table should include essential fields such as name, email, and current balance. The transaction table will record all monetary transfers that take place.
 
-◇ No Login Page. No Customer Creation. Only transfer of money between multiple customers.
+User Flow: Home Screen > View All Customers > Select and View a Customer > Transfer Money > Choose Recipient > View All Customers > Access Transfer History.
 
-◇ Upload video demo of your application on youtube and submit the url.
+There will be no login page or customer creation functionality; the app will solely facilitate money transfers among existing customers.
+
+Technology Stack: Front-end: HTML, CSS, Bootstrap, and JavaScript; Back-end: PHP; Database: MySQL.
+
+The database will consist of two tables: Users Table and Transaction Table.
